@@ -1,3 +1,3 @@
-# deploy-ml-model-flask
+# image processing flask dan herokuu
 
-Dikta teknik informatika unisbank
+Muhammad nazaruddin havid 18.01.53.0105
